@@ -1,13 +1,13 @@
 {
-  "id": "android-messages",
-  "name": "Android Messages",
-  "version": "1.4.0",
-  "description": "Android Messages",
+  "id": "google-fi-messages",
+  "name": "Google Fi Messages",
+  "version": "1.0",
+  "description": "Google Fi Messages",
   "main": "index.js",
-  "author": "Daniel Weinberger, Stefan Malzner <stefan@adlk.io>",
+  "author": "Daniel Weinberger, Stefan Malzner <stefan@adlk.io>, Chuck Burt",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://messages.google.com/web",
+    "serviceURL": "https://messages.google.com/web/",
     "hasNotificationSound": true
   }
 }
