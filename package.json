@@ -1,10 +1,10 @@
 {
   "id": "google-fi-messages",
   "name": "Google Fi Messages",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Google Fi Messages",
   "main": "index.js",
-  "author": "Daniel Weinberger, Stefan Malzner <stefan@adlk.io>, Chuck Burt",
+  "author": "Chuck Burt, chuck.burt+github.com@gmail.com",
   "license": "MIT",
   "config": {
     "serviceURL": "https://messages.google.com/web/",
